@@ -5,7 +5,7 @@ export default function PreviousWinner({ winner, type, monthLabel }) {
     <article className="previous-card">
       <div className="previous-visual">
         <img
-          src="/images/podium/trophy.png"
+          src={`${import.meta.env.BASE_URL}images/podium/trophy.png`}
           alt=""
           onError={(e) => { e.currentTarget.style.display = "none"; }}
         />

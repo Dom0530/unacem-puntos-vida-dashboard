@@ -5,7 +5,7 @@ export default function Header({ lastUpdated }) {
     <header className="app-header">
       <div className="brand-block">
         <img
-          src="/images/branding/logo.png"
+          src={`${import.meta.env.BASE_URL}images/branding/logo.png`}
           alt="Logo"
           className="brand-logo"
           onError={(e) => { e.currentTarget.style.display = "none"; }}
