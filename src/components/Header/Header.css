@@ -1,0 +1,84 @@
+.app-header {
+  min-height: 94px;
+  display: grid;
+  grid-template-columns: 190px 1fr 230px;
+  align-items: center;
+  gap: 18px;
+  padding: 18px 28px;
+  background: var(--background-dark);
+  color: #fff;
+  border-radius: 0 0 22px 22px;
+}
+
+.brand-block {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+}
+
+.brand-logo {
+  width: 138px;
+  height: 42px;
+  object-fit: contain;
+  object-position: left center;
+}
+
+.brand-fallback {
+  font-weight: 900;
+  font-size: 28px;
+  letter-spacing: .02em;
+}
+
+.header-title {
+  text-align: center;
+  line-height: 1.05;
+  font-size: clamp(18px, 2.2vw, 29px);
+  font-weight: 800;
+}
+
+.header-title strong {
+  display: block;
+}
+
+.header-meta {
+  display: flex;
+  justify-content: flex-end;
+  gap: 6px;
+  flex-direction: column;
+  text-align: right;
+  font-size: 12px;
+}
+
+.header-meta strong {
+  font-size: 13px;
+}
+
+@media (max-width: 760px) {
+  .app-header {
+    grid-template-columns: 1fr auto;
+    padding: 16px 18px;
+    min-height: 92px;
+  }
+
+  .header-title {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    text-align: left;
+    font-size: 17px;
+  }
+
+  .header-meta {
+    grid-column: 2;
+    grid-row: 1;
+    font-size: 10px;
+  }
+
+  .header-meta strong {
+    font-size: 11px;
+  }
+
+  .brand-logo {
+    width: 110px;
+    height: 34px;
+  }
+}

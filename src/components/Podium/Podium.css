@@ -1,0 +1,133 @@
+.podium {
+  display: grid;
+  grid-template-columns: 1fr 1.15fr 1fr;
+  align-items: end;
+  gap: 10px;
+}
+
+.podium-card {
+  position: relative;
+  min-height: 160px;
+  padding: 20px 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.podium-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-hover);
+}
+
+.podium-card.is-first {
+  min-height: 190px;
+  border: 2px solid var(--accent-primary);
+  background: linear-gradient(180deg, #fff, #fff8f8);
+}
+
+.position-badge {
+  position: absolute;
+  top: 9px;
+  left: 10px;
+  width: 28px;
+  height: 28px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: #e7e8e9;
+  font-weight: 900;
+  font-size: 12px;
+}
+
+.is-first .position-badge {
+  background: var(--accent-primary);
+  color: #fff;
+}
+
+.avatar {
+  width: 58px;
+  height: 58px;
+  margin: 5px 0 9px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: #eef0f1;
+  color: #404447;
+  border: 3px solid #d6d9db;
+  font-weight: 900;
+  font-size: 15px;
+}
+
+.avatar-first {
+  width: 72px;
+  height: 72px;
+  border-color: var(--accent-primary);
+  background: #fff0f0;
+  color: var(--accent-primary);
+}
+
+.podium-content {
+  width: 100%;
+}
+
+.podium-content h3 {
+  margin: 0;
+  font-size: clamp(12px, 1.15vw, 16px);
+  line-height: 1.15;
+  overflow-wrap: anywhere;
+}
+
+.podium-content p {
+  margin: 4px 0 7px;
+  color: var(--text-secondary);
+  font-size: 11px;
+}
+
+.podium-content strong {
+  display: block;
+  font-size: 15px;
+  color: var(--accent-primary);
+}
+
+.podium-areas .podium-content h3 {
+  font-size: clamp(13px, 1.25vw, 17px);
+}
+
+@media (max-width: 560px) {
+  .podium {
+    gap: 7px;
+  }
+
+  .podium-card {
+    min-height: 145px;
+    padding: 18px 8px 12px;
+  }
+
+  .podium-card.is-first {
+    min-height: 170px;
+  }
+
+  .avatar {
+    width: 48px;
+    height: 48px;
+  }
+
+  .avatar-first {
+    width: 62px;
+    height: 62px;
+  }
+
+  .podium-content h3 {
+    font-size: 11px;
+  }
+
+  .podium-content strong {
+    font-size: 12px;
+  }
+}

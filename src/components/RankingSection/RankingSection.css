@@ -1,0 +1,93 @@
+.ranking-section {
+  display: grid;
+  gap: 16px;
+  min-width: 0;
+}
+
+.section-heading {
+  min-height: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 17px;
+  border-radius: 14px;
+  background: var(--background-dark);
+  color: #fff;
+}
+
+.section-kicker {
+  display: block;
+  margin-bottom: 3px;
+  font-size: 10px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #c9c9c9;
+  font-weight: 800;
+}
+
+.section-heading h2 {
+  margin: 0;
+  font-size: 21px;
+  letter-spacing: .02em;
+}
+
+.module {
+  padding: 16px;
+  border-radius: 16px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+  animation: moduleIn .35s ease both;
+}
+
+.module-title {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 13px;
+}
+
+.module-title > span {
+  font-weight: 900;
+  font-size: 13px;
+}
+
+.module-title small {
+  color: var(--text-secondary);
+  font-size: 10px;
+  text-align: right;
+}
+
+.empty-state {
+  min-height: 90px;
+  display: grid;
+  place-items: center;
+  padding: 18px;
+  border-radius: 12px;
+  background: #f4f5f5;
+  color: var(--text-secondary);
+  text-align: center;
+  font-size: 13px;
+}
+
+@keyframes moduleIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 560px) {
+  .module {
+    padding: 12px;
+  }
+
+  .module-title {
+    display: block;
+  }
+
+  .module-title small {
+    display: block;
+    margin-top: 3px;
+    text-align: left;
+  }
+}

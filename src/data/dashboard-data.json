@@ -1,0 +1,2746 @@
+{
+  "months": {
+    "1": "Enero",
+    "2": "Febrero",
+    "3": "Marzo",
+    "4": "Abril",
+    "5": "Mayo",
+    "6": "Junio",
+    "7": "Julio",
+    "8": "Agosto",
+    "9": "Septiembre",
+    "10": "Octubre",
+    "11": "Noviembre",
+    "12": "Diciembre"
+  },
+  "years": {
+    "2026": {
+      "monthly": {
+        "1": {
+          "Lima": {
+            "people": [
+              {
+                "position": 1,
+                "name": "JOSE RICARDO HINOSTROZA DE LA CRUZ",
+                "area": null,
+                "points": 160.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "SANTOS PEDRO HURTADO CONTRERAS",
+                "area": null,
+                "points": 135.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "JAVIER FRANCISCO HERNANDEZ REATEGUI",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "MARJORIE NOEMI CAMIZAN FLORES",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "JOHN LY ELIAS REATEGUI",
+                "area": null,
+                "points": 45.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "CARLOS MARTIN ARRIOLA VIGO",
+                "area": null,
+                "points": 40.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "JUAN JOSE BUSTAMANTE PACHECO",
+                "area": null,
+                "points": 40.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "JAHAZIEL RICARDO VELARDE QUIMPER",
+                "area": null,
+                "points": 35.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "AQUILES RICARDO RODRIGUEZ PALACIN",
+                "area": null,
+                "points": 35.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "JOARSHIÑO GONZALO GOMEZ SOSA",
+                "area": null,
+                "points": 30.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "SPERA",
+                "points": 32.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DIA",
+                "points": 17.14,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "DPA",
+                "points": 16.25,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "GOA",
+                "points": 15.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "MAA",
+                "points": 15.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "DMPRA",
+                "points": 10.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "SHIC",
+                "points": 10.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DMPA",
+                "points": 5.71,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "DMMA",
+                "points": 3.61,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "DPRA",
+                "points": 3.43,
+                "image": null
+              }
+            ]
+          },
+          "Junin": {
+            "people": [
+              {
+                "position": 1,
+                "name": "GILTER ESCALANTE PANDO",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DUSTIN EDGAR ATUC PUCUHUAYLA",
+                "area": null,
+                "points": 30.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "JHON CARLOS LOZANO SANTIAGO",
+                "area": null,
+                "points": 30.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "JOSE LUIS BAEZ SOTOMAYOR",
+                "area": null,
+                "points": 30.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "GUSTAVO ADOLFO LEYVA QUINTO",
+                "area": null,
+                "points": 30.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "JESUS AUGUSTO DELGADO PALOMINO",
+                "area": null,
+                "points": 30.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "RAUL FERNANDO GARCIA GARCILAZO",
+                "area": null,
+                "points": 30.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "WILMER NAZARIO CORDOVA MONDALGO",
+                "area": null,
+                "points": 30.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "LUIS ALBERTO CORONEL CANCHARI",
+                "area": null,
+                "points": 20.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "ANGEL MARINO HUAMAN FLORES",
+                "area": null,
+                "points": 20.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "ALMC",
+                "points": 8.75,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DMEGC",
+                "points": 6.32,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "DPC",
+                "points": 5.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "DMPC",
+                "points": 2.73,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "DQC",
+                "points": 1.55,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "DPRC",
+                "points": 1.07,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "DMPRC",
+                "points": 0.71,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DMMC",
+                "points": 0.58,
+                "image": null
+              }
+            ]
+          }
+        },
+        "2": {
+          "Lima": {
+            "people": [
+              {
+                "position": 1,
+                "name": "MARJORIE NOEMI CAMIZAN FLORES",
+                "area": null,
+                "points": 340.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "CARLOS MARTIN ARRIOLA VIGO",
+                "area": null,
+                "points": 320.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "JAIME EFRAIN ROJAS SOBERON",
+                "area": null,
+                "points": 210.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "SANTOS PEDRO HURTADO CONTRERAS",
+                "area": null,
+                "points": 195.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "DANIEL SMITH OCAS ROMERO",
+                "area": null,
+                "points": 120.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "GUILLERMO DENNIS KU SOU",
+                "area": null,
+                "points": 110.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "FRANK STANLEY CHUQUICONDOR TARAZONA",
+                "area": null,
+                "points": 80.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "JOSE RICARDO HINOSTROZA DE LA CRUZ",
+                "area": null,
+                "points": 80.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "JOHN LY ELIAS REATEGUI",
+                "area": null,
+                "points": 75.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "SUSANA CARIDAD SARAVIA ALVARADO",
+                "area": null,
+                "points": 75.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "DPA",
+                "points": 82.5,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DMPRA",
+                "points": 46.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "MAA",
+                "points": 41.25,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "DIA",
+                "points": 26.43,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "SPERA",
+                "points": 16.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "SHIC",
+                "points": 10.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "GOA",
+                "points": 7.5,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DMEA",
+                "points": 7.5,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "DPRA",
+                "points": 4.34,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "DMPA",
+                "points": 4.29,
+                "image": null
+              }
+            ]
+          },
+          "Junin": {
+            "people": [
+              {
+                "position": 1,
+                "name": "ALEXIS GUSTAVO CHIPANA CALDERON",
+                "area": null,
+                "points": 170.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "JACK GEORGE GERVAU RAMOS",
+                "area": null,
+                "points": 170.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "KENNING GEORKING GUTIERREZ ARROYO",
+                "area": null,
+                "points": 170.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "RAUL FERNANDO GARCIA GARCILAZO",
+                "area": null,
+                "points": 90.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "BRYAN JOHNNY CAPARACHIN REYES",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "NICOLLE DARLEINE CIFUENTES GONZALES",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "MICHAEL DAVIS APOLINARIO CARHUAS",
+                "area": null,
+                "points": 45.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DOBECK OMAR VILLAFANE PEREYRA",
+                "area": null,
+                "points": 40.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "BLAS EMILIANO MIRANDA VENTOCILLA",
+                "area": null,
+                "points": 30.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "MARIO RAMOS VELA",
+                "area": null,
+                "points": 30.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "MAC",
+                "points": 40.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DPC",
+                "points": 28.33,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "DMPRC",
+                "points": 11.43,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "DMPC",
+                "points": 8.18,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "DMMC",
+                "points": 7.69,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "ALMC",
+                "points": 7.5,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "DISGC",
+                "points": 3.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DPRC",
+                "points": 1.26,
+                "image": null
+              }
+            ]
+          }
+        },
+        "3": {
+          "Lima": {
+            "people": [
+              {
+                "position": 1,
+                "name": "CARLOS MARTIN ARRIOLA VIGO",
+                "area": null,
+                "points": 240.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "MARJORIE NOEMI CAMIZAN FLORES",
+                "area": null,
+                "points": 180.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "MATEO ALAH VALENZUELA DIAZ",
+                "area": null,
+                "points": 160.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "JAHAZIEL RICARDO VELARDE QUIMPER",
+                "area": null,
+                "points": 120.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "JOSE RICARDO HINOSTROZA DE LA CRUZ",
+                "area": null,
+                "points": 100.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "JOHN LY ELIAS REATEGUI",
+                "area": null,
+                "points": 95.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "FRANK STANLEY CHUQUICONDOR TARAZONA",
+                "area": null,
+                "points": 75.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DANILO ADDERLY QUISPE BEJAR",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "DANIEL SMITH OCAS ROMERO",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "GUILLERMO DENNIS KU SOU",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "DALM",
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DMPRA",
+                "points": 42.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "DPA",
+                "points": 37.5,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "MAA",
+                "points": 31.25,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "SCG",
+                "points": 30.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "SPERA",
+                "points": 20.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "DMMA",
+                "points": 11.67,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DIA",
+                "points": 8.57,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "DMEA",
+                "points": 6.11,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "LPT",
+                "points": 3.33,
+                "image": null
+              }
+            ]
+          },
+          "Junin": {
+            "people": [
+              {
+                "position": 1,
+                "name": "HECTOR ALDO ZACARIAS CORONEL",
+                "area": null,
+                "points": 260.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DOBECK OMAR VILLAFANE PEREYRA",
+                "area": null,
+                "points": 160.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "VICTOR MAURICIO RAMIREZ ROMANI",
+                "area": null,
+                "points": 90.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "JAVIER ENRIQUE PAIVA VERASTEGUI",
+                "area": null,
+                "points": 65.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "LUIS ALBERTO CORONEL CANCHARI",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "JOSE ANTONIO SOLANO RAMIREZ",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "RICHARD GERMAN LOPEZ TOVAR",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "GUSTAVO ADOLFO LEYVA QUINTO",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "DARWIN SANTAMARIA CALDERON",
+                "area": null,
+                "points": 50.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "ROY ORLANDO CAPARACHIN ASTETE",
+                "area": null,
+                "points": 45.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "DISGC",
+                "points": 65.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "MAC",
+                "points": 36.67,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "ALMC",
+                "points": 15.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "DMPRC",
+                "points": 8.33,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "DPC",
+                "points": 5.83,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "DMMC",
+                "points": 5.38,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "DPRC",
+                "points": 3.89,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DMPC",
+                "points": 2.73,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "DMEIC",
+                "points": 1.25,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "DMEGC",
+                "points": 0.79,
+                "image": null
+              }
+            ]
+          }
+        },
+        "4": {
+          "Lima": {
+            "people": [
+              {
+                "position": 1,
+                "name": "DANIEL SMITH OCAS ROMERO",
+                "area": null,
+                "points": 255.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "JOHN LY ELIAS REATEGUI",
+                "area": null,
+                "points": 165.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "JOSE RICARDO HINOSTROZA DE LA CRUZ",
+                "area": null,
+                "points": 150.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "LUIS ENRIQUE GILVONIO ALEGRIA",
+                "area": null,
+                "points": 150.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "DANILO ADDERLY QUISPE BEJAR",
+                "area": null,
+                "points": 120.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "GUILLERMO DENNIS KU SOU",
+                "area": null,
+                "points": 120.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "KEVIN ALDAIR HUANACO YEREN",
+                "area": null,
+                "points": 105.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "FRANK STANLEY CHUQUICONDOR TARAZONA",
+                "area": null,
+                "points": 80.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "MIGUEL GUSTAVO MARTINEZ ESPINOZA",
+                "area": null,
+                "points": 80.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "MATEO ALAH VALENZUELA DIAZ",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "MAA",
+                "points": 52.5,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DMPRA",
+                "points": 42.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "SPERA",
+                "points": 30.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "DIA",
+                "points": 21.43,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "LMP",
+                "points": 20.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "DALM",
+                "points": 15.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "DPA",
+                "points": 13.75,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DMPA",
+                "points": 8.57,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "DCCA",
+                "points": 6.36,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "DEDA",
+                "points": 4.55,
+                "image": null
+              }
+            ]
+          },
+          "Junin": {
+            "people": [
+              {
+                "position": 1,
+                "name": "HECTOR ALDO ZACARIAS CORONEL",
+                "area": null,
+                "points": 390.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "JOSE ANTONIO SOLANO RAMIREZ",
+                "area": null,
+                "points": 185.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "VICTOR FRANKLIN DUEÑAS MATOS",
+                "area": null,
+                "points": 170.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "KENNING GEORKING GUTIERREZ ARROYO",
+                "area": null,
+                "points": 105.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "ADRIAN ENRIQUE MALDONADO MALDONADO",
+                "area": null,
+                "points": 90.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "WILLY ALDO MARTINEZ HUAROC",
+                "area": null,
+                "points": 90.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "JIMMY APARICIO CRISANTO",
+                "area": null,
+                "points": 90.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "HENRY ROBERTO DIONISIO PADILLA",
+                "area": null,
+                "points": 90.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "JOSE LUIS BAEZ SOTOMAYOR",
+                "area": null,
+                "points": 75.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "NICOLLE DARLEINE CIFUENTES GONZALES",
+                "area": null,
+                "points": 75.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "DISGC",
+                "points": 81.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "MAC",
+                "points": 45.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "DMMC",
+                "points": 16.54,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "DMEGC",
+                "points": 11.05,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "DMEIC",
+                "points": 8.44,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "DMPC",
+                "points": 8.18,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "DMPRC",
+                "points": 7.38,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "ALMC",
+                "points": 5.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "DPRC",
+                "points": 4.54,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "DPC",
+                "points": 2.5,
+                "image": null
+              }
+            ]
+          }
+        },
+        "5": {
+          "Lima": {
+            "people": [
+              {
+                "position": 1,
+                "name": "SANTOS PEDRO HURTADO CONTRERAS",
+                "area": null,
+                "points": 1065.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "SUSANA CARIDAD SARAVIA ALVARADO",
+                "area": null,
+                "points": 425.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "JOARSHIÑO GONZALO GOMEZ SOSA",
+                "area": null,
+                "points": 250.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "ALEXIS ALFREDO GARCIA RAMIREZ",
+                "area": null,
+                "points": 230.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "JOHN LY ELIAS REATEGUI",
+                "area": null,
+                "points": 195.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "KEVIN ALDAIR HUANACO YEREN",
+                "area": null,
+                "points": 185.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "MARJORIE NOEMI CAMIZAN FLORES",
+                "area": null,
+                "points": 180.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "ALFONSO JAVIER SANTOS FERNANDEZ",
+                "area": null,
+                "points": 170.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "MICHAEL ADRIAN CHAMBI ESTRADA",
+                "area": null,
+                "points": 170.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "CARLOS ENRIQUE RETAMOZO ARRIETA",
+                "area": null,
+                "points": 155.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "MAA",
+                "points": 195.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DPA",
+                "points": 93.75,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "GL",
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "DSERTI",
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "DIA",
+                "points": 45.71,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "DMPRA",
+                "points": 44.5,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "DEDA",
+                "points": 43.43,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "GOA",
+                "points": 40.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "DMEA",
+                "points": 38.89,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "DPRA",
+                "points": 36.51,
+                "image": null
+              }
+            ]
+          },
+          "Junin": {
+            "people": [
+              {
+                "position": 1,
+                "name": "ADRIAN ENRIQUE MALDONADO MALDONADO",
+                "area": null,
+                "points": 500.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "NICOLLE DARLEINE CIFUENTES GONZALES",
+                "area": null,
+                "points": 365.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "ANGEL MARINO HUAMAN FLORES",
+                "area": null,
+                "points": 330.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "GUSTAVO ADOLFO LEYVA QUINTO",
+                "area": null,
+                "points": 180.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "EDIL RAFAEL GAMARRA CONTRERAS",
+                "area": null,
+                "points": 150.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "HENRY ROBERTO DIONISIO PADILLA",
+                "area": null,
+                "points": 120.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "JOSE LUIS BAEZ SOTOMAYOR",
+                "area": null,
+                "points": 120.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "VICTOR MAURICIO RAMIREZ ROMANI",
+                "area": null,
+                "points": 120.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "BLAS EMILIANO MIRANDA VENTOCILLA",
+                "area": null,
+                "points": 105.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "DOBECK OMAR VILLAFANE PEREYRA",
+                "area": null,
+                "points": 80.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "MAC",
+                "points": 126.67,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DSEGP",
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "DMEGC",
+                "points": 38.95,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "DMMC",
+                "points": 20.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "DPC",
+                "points": 18.33,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "DPRC",
+                "points": 10.34,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "DISGC",
+                "points": 6.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DMPRC",
+                "points": 3.81,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "DMPC",
+                "points": 3.18,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "DMEIC",
+                "points": 1.88,
+                "image": null
+              }
+            ]
+          }
+        },
+        "6": {
+          "Lima": {
+            "people": [
+              {
+                "position": 1,
+                "name": "KEVIN ALDAIR HUANACO YEREN",
+                "area": null,
+                "points": 450.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "CARLOS ENRIQUE RETAMOZO ARRIETA",
+                "area": null,
+                "points": 285.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "MARIO DIAZ HUARCAYA",
+                "area": null,
+                "points": 270.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "JORGE LUIS CHINO CELIS",
+                "area": null,
+                "points": 255.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "SERGIO ALEJANDRO CASTILLEJO FARFAN",
+                "area": null,
+                "points": 255.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "MERILYN CHUMPITAZ UQUICHE",
+                "area": null,
+                "points": 105.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "SANTOS PEDRO HURTADO CONTRERAS",
+                "area": null,
+                "points": 105.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "MIGUEL ALEJANDRO PAMPACATA ECHEVARRIA",
+                "area": null,
+                "points": 90.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "JUAN JOSE BUSTAMANTE PACHECO",
+                "area": null,
+                "points": 90.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "RENATO ALONSO PAREDES MISARI",
+                "area": null,
+                "points": 90.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "DIA",
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "MAA",
+                "points": 48.75,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "DCCA",
+                "points": 40.91,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "LPT",
+                "points": 20.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "DPA",
+                "points": 16.88,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "DMPRA",
+                "points": 15.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "DEDA",
+                "points": 10.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DMMA",
+                "points": 9.72,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "SPERA",
+                "points": 4.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "DPRA",
+                "points": 2.89,
+                "image": null
+              }
+            ]
+          },
+          "Junin": {
+            "people": [
+              {
+                "position": 1,
+                "name": "ADRIAN ENRIQUE MALDONADO MALDONADO",
+                "area": null,
+                "points": 1900.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "JULINHO FRANK HUAMAN RIVERA",
+                "area": null,
+                "points": 915.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "RICHARD GERMAN LOPEZ TOVAR",
+                "area": null,
+                "points": 660.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "JOSE LUIS BAEZ SOTOMAYOR",
+                "area": null,
+                "points": 480.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "HECTOR ALDO ZACARIAS CORONEL",
+                "area": null,
+                "points": 255.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "JOSE ANTONIO SOLANO RAMIREZ",
+                "area": null,
+                "points": 245.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "EDIL RAFAEL GAMARRA CONTRERAS",
+                "area": null,
+                "points": 150.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "GILTER ESCALANTE PANDO",
+                "area": null,
+                "points": 150.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "PAOLO ALONSO MEDINA ROJAS",
+                "area": null,
+                "points": 135.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "KENNING GEORKING GUTIERREZ ARROYO",
+                "area": null,
+                "points": 135.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "DISGC",
+                "points": 273.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DMEGC",
+                "points": 146.58,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "MAC",
+                "points": 50.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "ALMC",
+                "points": 16.25,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "LPT",
+                "points": 14.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "DMMC",
+                "points": 13.46,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "DPRC",
+                "points": 10.99,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DMEIC",
+                "points": 10.31,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "DMPRC",
+                "points": 6.43,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "DMPC",
+                "points": 4.09,
+                "image": null
+              }
+            ]
+          }
+        },
+        "7": {
+          "Lima": {
+            "people": [
+              {
+                "position": 1,
+                "name": "LUIS ANGEL SANCHEZ HURTADO",
+                "area": null,
+                "points": 1380.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "PAUL GRIZZLYN VILLAFRANCA CASIMIRO",
+                "area": null,
+                "points": 1365.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "MARIO DIAZ HUARCAYA",
+                "area": null,
+                "points": 210.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "LUIS ALBERTO ARIAS CUYA",
+                "area": null,
+                "points": 200.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "ENRIQUE ARMANDO ARI CONDORI",
+                "area": null,
+                "points": 180.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "ALEXIS ALFREDO GARCIA RAMIREZ",
+                "area": null,
+                "points": 140.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "LUIS BERNARDO BARZOLA SALVADOR",
+                "area": null,
+                "points": 135.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "WILFREDO RONALD QUISPE FLORES",
+                "area": null,
+                "points": 135.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "JOHN LY ELIAS REATEGUI",
+                "area": null,
+                "points": 120.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "CARLOS ENRIQUE RETAMOZO ARRIETA",
+                "area": null,
+                "points": 105.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "DCCA",
+                "points": 81.82,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DIA",
+                "points": 42.86,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "DPA",
+                "points": 32.5,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "DEDA",
+                "points": 30.67,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "MAA",
+                "points": 30.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "DMPRA",
+                "points": 11.5,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "DPRA",
+                "points": 8.25,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DALM",
+                "points": 7.5,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "LPT",
+                "points": 7.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "DMEA",
+                "points": 4.17,
+                "image": null
+              }
+            ]
+          },
+          "Junin": {
+            "people": [
+              {
+                "position": 1,
+                "name": "JOSE LUIS BAEZ SOTOMAYOR",
+                "area": null,
+                "points": 1380.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "RICHARD GERMAN LOPEZ TOVAR",
+                "area": null,
+                "points": 735.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "ADRIAN ENRIQUE MALDONADO MALDONADO",
+                "area": null,
+                "points": 600.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "EDIL RAFAEL GAMARRA CONTRERAS",
+                "area": null,
+                "points": 420.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "VICTOR FRANKLIN DUEÑAS MATOS",
+                "area": null,
+                "points": 240.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "BRAYAN CAMILO CHUQUIHUARACA TORIBIO",
+                "area": null,
+                "points": 180.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "HECTOR ALDO ZACARIAS CORONEL",
+                "area": null,
+                "points": 135.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "NICOLLE DARLEINE CIFUENTES GONZALES",
+                "area": null,
+                "points": 90.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "JULINHO FRANK HUAMAN RIVERA",
+                "area": null,
+                "points": 75.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "ROBERT WILLIAM ARIAS PEREZ",
+                "area": null,
+                "points": 75.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "DMEGC",
+                "points": 113.95,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DISGC",
+                "points": 54.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "MAC",
+                "points": 50.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "DMMC",
+                "points": 27.69,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "ALMC",
+                "points": 26.25,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "DPRC",
+                "points": 10.42,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "DMEIC",
+                "points": 4.69,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DMPRC",
+                "points": 4.29,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "DMPC",
+                "points": 2.73,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "DPC",
+                "points": 2.5,
+                "image": null
+              }
+            ]
+          }
+        },
+        "8": {
+          "Lima": {
+            "people": [
+              {
+                "position": 1,
+                "name": "JOSE LUIS ARTEAGA CRUZ",
+                "area": null,
+                "points": 2040.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "LUIS ANGEL SANCHEZ HURTADO",
+                "area": null,
+                "points": 630.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "RENATO ALONSO PAREDES MISARI",
+                "area": null,
+                "points": 465.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "MARIO DIAZ HUARCAYA",
+                "area": null,
+                "points": 420.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "PAUL GRIZZLYN VILLAFRANCA CASIMIRO",
+                "area": null,
+                "points": 390.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "RICARDO RODRIGUEZ ARAUCO",
+                "area": null,
+                "points": 255.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "ROBERTSON JAIME CUCHILLO CONTRERAS",
+                "area": null,
+                "points": 225.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "JOSE BRUNO MORENO BEGAZO",
+                "area": null,
+                "points": 210.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "JHON EFRAIN OCSAS CABALLERO",
+                "area": null,
+                "points": 165.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "ROBERT BRAULIO ISIDRO CASTILLO",
+                "area": null,
+                "points": 150.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "DCCA",
+                "points": 158.18,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "MAA",
+                "points": 26.25,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "DMMA",
+                "points": 25.83,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "DIA",
+                "points": 15.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "CAT",
+                "points": 15.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "DEDA",
+                "points": 11.12,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "DPRA",
+                "points": 9.16,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DPA",
+                "points": 6.25,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "SPERA",
+                "points": 6.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "DMPRA",
+                "points": 3.0,
+                "image": null
+              }
+            ]
+          },
+          "Junin": {
+            "people": [
+              {
+                "position": 1,
+                "name": "HERNAN JESUS DIAZ BASTIDAS",
+                "area": null,
+                "points": 1545.0,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "RICHARD GERMAN LOPEZ TOVAR",
+                "area": null,
+                "points": 1110.0,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "VICTOR MAURICIO RAMIREZ ROMANI",
+                "area": null,
+                "points": 600.0,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "ADRIAN ENRIQUE MALDONADO MALDONADO",
+                "area": null,
+                "points": 135.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "JESUS AUGUSTO DELGADO PALOMINO",
+                "area": null,
+                "points": 110.0,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "ROY ORLANDO CAPARACHIN ASTETE",
+                "area": null,
+                "points": 90.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "GILTER ESCALANTE PANDO",
+                "area": null,
+                "points": 75.0,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "KENNING GEORKING GUTIERREZ ARROYO",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "NICOLLE DARLEINE CIFUENTES GONZALES",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "TEOFILO ANDRES CASTILLO ESPINOZA",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "DMEGC",
+                "points": 101.84,
+                "image": null
+              },
+              {
+                "position": 2,
+                "name": "DMMC",
+                "points": 29.62,
+                "image": null
+              },
+              {
+                "position": 3,
+                "name": "DPC",
+                "points": 23.33,
+                "image": null
+              },
+              {
+                "position": 4,
+                "name": "MAC",
+                "points": 20.0,
+                "image": null
+              },
+              {
+                "position": 5,
+                "name": "DPRC",
+                "points": 10.99,
+                "image": null
+              },
+              {
+                "position": 6,
+                "name": "DISGC",
+                "points": 9.0,
+                "image": null
+              },
+              {
+                "position": 7,
+                "name": "ALMC",
+                "points": 7.5,
+                "image": null
+              },
+              {
+                "position": 8,
+                "name": "DMPRC",
+                "points": 6.43,
+                "image": null
+              },
+              {
+                "position": 9,
+                "name": "DMPC",
+                "points": 5.45,
+                "image": null
+              },
+              {
+                "position": 10,
+                "name": "LPT",
+                "points": 4.0,
+                "image": null
+              }
+            ]
+          }
+        },
+        "9": {
+          "Lima": {
+            "people": [
+              {
+                "position": 1,
+                "name": "JOSE BRUNO MORENO BEGAZO",
+                "area": null,
+                "points": 60.0,
+                "image": null
+              }
+            ],
+            "areas": [
+              {
+                "position": 1,
+                "name": "DMMA",
+                "points": 3.33,
+                "image": null
+              }
+            ]
+          },
+          "Junin": {
+            "people": [],
+            "areas": []
+          }
+        },
+        "10": {
+          "Lima": {
+            "people": [],
+            "areas": []
+          },
+          "Junin": {
+            "people": [],
+            "areas": []
+          }
+        },
+        "11": {
+          "Lima": {
+            "people": [],
+            "areas": []
+          },
+          "Junin": {
+            "people": [],
+            "areas": []
+          }
+        },
+        "12": {
+          "Lima": {
+            "people": [],
+            "areas": []
+          },
+          "Junin": {
+            "people": [],
+            "areas": []
+          }
+        }
+      },
+      "annual": {
+        "Lima": {
+          "people": [
+            {
+              "position": 1,
+              "name": "LUIS ANGEL SANCHEZ HURTADO",
+              "area": null,
+              "points": 2135.0,
+              "image": null
+            },
+            {
+              "position": 2,
+              "name": "JOSE LUIS ARTEAGA CRUZ",
+              "area": null,
+              "points": 2090.0,
+              "image": null
+            },
+            {
+              "position": 3,
+              "name": "PAUL GRIZZLYN VILLAFRANCA CASIMIRO",
+              "area": null,
+              "points": 1850.0,
+              "image": null
+            },
+            {
+              "position": 4,
+              "name": "SANTOS PEDRO HURTADO CONTRERAS",
+              "area": null,
+              "points": 1635.0,
+              "image": null
+            },
+            {
+              "position": 5,
+              "name": "MARIO DIAZ HUARCAYA",
+              "area": null,
+              "points": 900.0,
+              "image": null
+            },
+            {
+              "position": 6,
+              "name": "JOHN LY ELIAS REATEGUI",
+              "area": null,
+              "points": 845.0,
+              "image": null
+            },
+            {
+              "position": 7,
+              "name": "MARJORIE NOEMI CAMIZAN FLORES",
+              "area": null,
+              "points": 795.0,
+              "image": null
+            },
+            {
+              "position": 8,
+              "name": "KEVIN ALDAIR HUANACO YEREN",
+              "area": null,
+              "points": 770.0,
+              "image": null
+            },
+            {
+              "position": 9,
+              "name": "DANIEL SMITH OCAS ROMERO",
+              "area": null,
+              "points": 690.0,
+              "image": null
+            },
+            {
+              "position": 10,
+              "name": "RENATO ALONSO PAREDES MISARI",
+              "area": null,
+              "points": 645.0,
+              "image": null
+            }
+          ],
+          "areas": [
+            {
+              "position": 1,
+              "name": "DSERTI",
+              "points": 60.0,
+              "image": null
+            },
+            {
+              "position": 2,
+              "name": "GL",
+              "points": 60.0,
+              "image": null
+            },
+            {
+              "position": 3,
+              "name": "MAA",
+              "points": 55.0,
+              "image": null
+            },
+            {
+              "position": 4,
+              "name": "DCCA",
+              "points": 52.05,
+              "image": null
+            },
+            {
+              "position": 5,
+              "name": "DPA",
+              "points": 37.42,
+              "image": null
+            },
+            {
+              "position": 6,
+              "name": "SGAA",
+              "points": 33.33,
+              "image": null
+            },
+            {
+              "position": 7,
+              "name": "SCG",
+              "points": 30.0,
+              "image": null
+            },
+            {
+              "position": 8,
+              "name": "DIA",
+              "points": 29.64,
+              "image": null
+            },
+            {
+              "position": 9,
+              "name": "DMPRA",
+              "points": 26.75,
+              "image": null
+            },
+            {
+              "position": 10,
+              "name": "LMP",
+              "points": 25.0,
+              "image": null
+            }
+          ]
+        },
+        "Junin": {
+          "people": [
+            {
+              "position": 1,
+              "name": "ADRIAN ENRIQUE MALDONADO MALDONADO",
+              "area": null,
+              "points": 3240.0,
+              "image": null
+            },
+            {
+              "position": 2,
+              "name": "RICHARD GERMAN LOPEZ TOVAR",
+              "area": null,
+              "points": 2640.0,
+              "image": null
+            },
+            {
+              "position": 3,
+              "name": "JOSE LUIS BAEZ SOTOMAYOR",
+              "area": null,
+              "points": 2130.0,
+              "image": null
+            },
+            {
+              "position": 4,
+              "name": "HERNAN JESUS DIAZ BASTIDAS",
+              "area": null,
+              "points": 1665.0,
+              "image": null
+            },
+            {
+              "position": 5,
+              "name": "HECTOR ALDO ZACARIAS CORONEL",
+              "area": null,
+              "points": 1100.0,
+              "image": null
+            },
+            {
+              "position": 6,
+              "name": "JULINHO FRANK HUAMAN RIVERA",
+              "area": null,
+              "points": 1005.0,
+              "image": null
+            },
+            {
+              "position": 7,
+              "name": "VICTOR MAURICIO RAMIREZ ROMANI",
+              "area": null,
+              "points": 840.0,
+              "image": null
+            },
+            {
+              "position": 8,
+              "name": "NICOLLE DARLEINE CIFUENTES GONZALES",
+              "area": null,
+              "points": 800.0,
+              "image": null
+            },
+            {
+              "position": 9,
+              "name": "EDIL RAFAEL GAMARRA CONTRERAS",
+              "area": null,
+              "points": 750.0,
+              "image": null
+            },
+            {
+              "position": 10,
+              "name": "JOSE ANTONIO SOLANO RAMIREZ",
+              "area": null,
+              "points": 600.0,
+              "image": null
+            }
+          ],
+          "areas": [
+            {
+              "position": 1,
+              "name": "DISGC",
+              "points": 70.14,
+              "image": null
+            },
+            {
+              "position": 2,
+              "name": "DSEGP",
+              "points": 60.0,
+              "image": null
+            },
+            {
+              "position": 3,
+              "name": "DMEGC",
+              "points": 59.92,
+              "image": null
+            },
+            {
+              "position": 4,
+              "name": "MAC",
+              "points": 52.62,
+              "image": null
+            },
+            {
+              "position": 5,
+              "name": "DMMC",
+              "points": 15.12,
+              "image": null
+            },
+            {
+              "position": 6,
+              "name": "ALMC",
+              "points": 12.32,
+              "image": null
+            },
+            {
+              "position": 7,
+              "name": "DPC",
+              "points": 12.26,
+              "image": null
+            },
+            {
+              "position": 8,
+              "name": "LPT",
+              "points": 9.0,
+              "image": null
+            },
+            {
+              "position": 9,
+              "name": "DPRC",
+              "points": 6.69,
+              "image": null
+            },
+            {
+              "position": 10,
+              "name": "DMPRC",
+              "points": 6.1,
+              "image": null
+            }
+          ]
+        }
+      },
+      "hallOfFame": {
+        "people": [
+          {
+            "month": 1,
+            "winner": "JOSE RICARDO HINOSTROZA DE LA CRUZ",
+            "area": null,
+            "points": 160.0,
+            "location": "Lima"
+          },
+          {
+            "month": 2,
+            "winner": "MARJORIE NOEMI CAMIZAN FLORES",
+            "area": null,
+            "points": 340.0,
+            "location": "Lima"
+          },
+          {
+            "month": 3,
+            "winner": "CARLOS MARTIN ARRIOLA VIGO",
+            "area": null,
+            "points": 240.0,
+            "location": "Lima"
+          },
+          {
+            "month": 4,
+            "winner": "DANIEL SMITH OCAS ROMERO",
+            "area": null,
+            "points": 255.0,
+            "location": "Lima"
+          },
+          {
+            "month": 5,
+            "winner": "SANTOS PEDRO HURTADO CONTRERAS",
+            "area": null,
+            "points": 1065.0,
+            "location": "Lima"
+          },
+          {
+            "month": 6,
+            "winner": "KEVIN ALDAIR HUANACO YEREN",
+            "area": null,
+            "points": 450.0,
+            "location": "Lima"
+          },
+          {
+            "month": 7,
+            "winner": "LUIS ANGEL SANCHEZ HURTADO",
+            "area": null,
+            "points": 1380.0,
+            "location": "Lima"
+          },
+          {
+            "month": 8,
+            "winner": "JOSE LUIS ARTEAGA CRUZ",
+            "area": null,
+            "points": 2040.0,
+            "location": "Lima"
+          },
+          {
+            "month": 9,
+            "winner": "JOSE BRUNO MORENO BEGAZO",
+            "area": null,
+            "points": 60.0,
+            "location": "Lima"
+          },
+          {
+            "month": 1,
+            "winner": "GILTER ESCALANTE PANDO",
+            "area": null,
+            "points": 60.0,
+            "location": "Junin"
+          },
+          {
+            "month": 2,
+            "winner": "ALEXIS GUSTAVO CHIPANA CALDERON",
+            "area": null,
+            "points": 170.0,
+            "location": "Junin"
+          },
+          {
+            "month": 3,
+            "winner": "HECTOR ALDO ZACARIAS CORONEL",
+            "area": null,
+            "points": 260.0,
+            "location": "Junin"
+          },
+          {
+            "month": 4,
+            "winner": "HECTOR ALDO ZACARIAS CORONEL",
+            "area": null,
+            "points": 390.0,
+            "location": "Junin"
+          },
+          {
+            "month": 5,
+            "winner": "ADRIAN ENRIQUE MALDONADO MALDONADO",
+            "area": null,
+            "points": 500.0,
+            "location": "Junin"
+          },
+          {
+            "month": 6,
+            "winner": "ADRIAN ENRIQUE MALDONADO MALDONADO",
+            "area": null,
+            "points": 1900.0,
+            "location": "Junin"
+          },
+          {
+            "month": 7,
+            "winner": "JOSE LUIS BAEZ SOTOMAYOR",
+            "area": null,
+            "points": 1380.0,
+            "location": "Junin"
+          },
+          {
+            "month": 8,
+            "winner": "HERNAN JESUS DIAZ BASTIDAS",
+            "area": null,
+            "points": 1545.0,
+            "location": "Junin"
+          }
+        ],
+        "areas": [
+          {
+            "month": 1,
+            "winner": "SPERA",
+            "points": 32.0,
+            "location": "Lima"
+          },
+          {
+            "month": 2,
+            "winner": "DPA",
+            "points": 82.5,
+            "location": "Lima"
+          },
+          {
+            "month": 3,
+            "winner": "DALM",
+            "points": 60.0,
+            "location": "Lima"
+          },
+          {
+            "month": 4,
+            "winner": "MAA",
+            "points": 52.5,
+            "location": "Lima"
+          },
+          {
+            "month": 5,
+            "winner": "MAA",
+            "points": 195.0,
+            "location": "Lima"
+          },
+          {
+            "month": 6,
+            "winner": "DIA",
+            "points": 60.0,
+            "location": "Lima"
+          },
+          {
+            "month": 7,
+            "winner": "DCCA",
+            "points": 81.82,
+            "location": "Lima"
+          },
+          {
+            "month": 8,
+            "winner": "DCCA",
+            "points": 158.18,
+            "location": "Lima"
+          },
+          {
+            "month": 9,
+            "winner": "DMMA",
+            "points": 3.33,
+            "location": "Lima"
+          },
+          {
+            "month": 1,
+            "winner": "ALMC",
+            "points": 8.75,
+            "location": "Junin"
+          },
+          {
+            "month": 2,
+            "winner": "MAC",
+            "points": 40.0,
+            "location": "Junin"
+          },
+          {
+            "month": 3,
+            "winner": "DISGC",
+            "points": 65.0,
+            "location": "Junin"
+          },
+          {
+            "month": 4,
+            "winner": "DISGC",
+            "points": 81.0,
+            "location": "Junin"
+          },
+          {
+            "month": 5,
+            "winner": "MAC",
+            "points": 126.67,
+            "location": "Junin"
+          },
+          {
+            "month": 6,
+            "winner": "DISGC",
+            "points": 273.0,
+            "location": "Junin"
+          },
+          {
+            "month": 7,
+            "winner": "DMEGC",
+            "points": 113.95,
+            "location": "Junin"
+          },
+          {
+            "month": 8,
+            "winner": "DMEGC",
+            "points": 101.84,
+            "location": "Junin"
+          }
+        ]
+      }
+    }
+  }
+}
